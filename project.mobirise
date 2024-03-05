@@ -285,7 +285,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "witsec-white-label": true,
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
